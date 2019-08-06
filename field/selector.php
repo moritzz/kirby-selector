@@ -1,6 +1,6 @@
 <?php
 
-class SelectorField extends BaseField
+class SelectorField extends Field
 {
     /**
      * Base directory for language files.
